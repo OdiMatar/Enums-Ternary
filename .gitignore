@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Testresultaten en lokale instellingen
+test-results/
+playwright-report/
+.vscode/
+Thumbs.db
+.env
